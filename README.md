@@ -1,12 +1,5 @@
  Python-Activity-Based-Learning
 
-Complete academic submission for **Python Activity-Based Learning** (10 Marks Evaluation).
-
-- **Selected Case Studies:** 10 Complete Solutions (Strictly within Assigned Syllabus)
-- **Syllabus Scope Enforced:** Computational thinking, algorithms, flowcharts, pseudocode, variables, data types, operators, conditional statements, loops, strings, pattern generation, lists, nested lists, tuples, tuple operations, and unpacking *(zero external imports, user-defined functions, classes, or dictionaries)*.
-
----
-
 ## Selected Case Studies Index
 
 | # | Question Ref | Case Study Deliverables | Python Script | Primary Syllabus Concepts |
@@ -22,31 +15,5 @@ Complete academic submission for **Python Activity-Based Learning** (10 Marks Ev
 | 09 | PDF #48 | [Tuple-Based Employee Shift Conflict Detection](./Case_Study_09_Employee_Shift_Conflict_Detection/README.md) | [`solution.py`](./Case_Study_09_Employee_Shift_Conflict_Detection/solution.py) | Tuples & Unpacking, Interval Overlap Logic, Pairwise Nested Loops, Time Range Validation |
 | 10 | PDF #49 | [Tuple-Based Product Catalogue Audit](./Case_Study_10_Product_Catalogue_Audit/README.md) | [`solution.py`](./Case_Study_10_Product_Catalogue_Audit/solution.py) | Tuples & Unpacking, String Format Checks, Inventory Valuation, Replenishment Filtering |
 
----
 
-## Mandatory Deliverables Included Per Folder
 
-Every `Case_Study_XX_...` directory contains all **10 mandatory deliverables**:
-
-1. **Problem Statement** (`README.md`)
-2. **Objectives** (`README.md`)
-3. **Assumptions** (`README.md`)
-4. **Algorithm** (`README.md`)
-5. **Flowchart** (`flowchart.svg` — ISO standard vector diagram)
-6. **Pseudocode** (`README.md`)
-7. **Python Source Code** (`solution.py`)
-8. **Test Cases** (`README.md` + `test_inputs/TC-01.txt` .. `TC-03.txt`)
-9. **Output Screenshots** (`screenshots/output_TC-01.png` .. `output_TC-03.png`)
-10. **Conclusion** (`README.md`)
-
----
-
-## How to Run Any Solution Locally
-
-```bash
-# Interactive mode:
-python3 Case_Study_01_University_Scholarship_Allocation/solution.py
-
-# Or feed any provided test case file directly:
-python3 Case_Study_01_University_Scholarship_Allocation/solution.py < Case_Study_01_University_Scholarship_Allocation/test_inputs/TC-01.txt
-```

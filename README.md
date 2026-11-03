@@ -1,5 +1,8 @@
  Python-Activity-Based-Learning
-
+GORREMUTCHU MONISH
+CSD1
+26001389
+DATA SCIENCE
 ## Selected Case Studies Index
 
 | # | Question Ref | Case Study Deliverables | Python Script | Primary Syllabus Concepts |

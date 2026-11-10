@@ -18,5 +18,11 @@ CSE(DATA SCIENCE)
 | 09 | PDF #48 | [Tuple-Based Employee Shift Conflict Detection](./Case_Study_09_Employee_Shift_Conflict_Detection/README.md) | [`solution.py`](./Case_Study_09_Employee_Shift_Conflict_Detection/solution.py) | Tuples & Unpacking, Interval Overlap Logic, Pairwise Nested Loops, Time Range Validation |
 | 10 | PDF #49 | [Tuple-Based Product Catalogue Audit](./Case_Study_10_Product_Catalogue_Audit/README.md) | [`solution.py`](./Case_Study_10_Product_Catalogue_Audit/solution.py) | Tuples & Unpacking, String Format Checks, Inventory Valuation, Replenishment Filtering |
 
+# Python Activity-Based Learning
+
+## Test Cases
+
+[Click here to view Test Cases PDF](test cases.pdf)
+
 
 
